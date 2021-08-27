@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"iostream": "cpp",
+		"xutility": "cpp",
+		"exception": "cpp",
+		"istream": "cpp",
+		"iterator": "cpp",
+		"memory": "cpp",
+		"streambuf": "cpp",
+		"tuple": "cpp",
+		"type_traits": "cpp",
+		"utility": "cpp",
+		"xiosbase": "cpp",
+		"xlocale": "cpp",
+		"xlocnum": "cpp",
+		"xstring": "cpp",
+		"*.rh": "cpp"
+	}
+}
