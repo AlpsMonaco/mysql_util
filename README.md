@@ -16,7 +16,7 @@ const int port = port;
 
 mysql_util mysql_util(user, pass, host, port, db_name);
 // call is_connected() to know whether the mysql is connected or not
-if (!m->is_connected()){
+if (!mysql_util.is_connected()){
 	return 1;
 }
 ```
